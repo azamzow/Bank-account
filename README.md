@@ -18,20 +18,20 @@ $ java AccountTest
 
 The program starts of by getting the users input of their starting account balance. 
 
-![1](/Users/averyzamzow/Desktop/Bank-account/1.png
+![1](https://github.com/azamzow/Bank-account/blob/master/1.png?raw=true)
 
 It then asks the user how much they were paid this month(deposit).
 
-![2](/Users/averyzamzow/Desktop/Bank-account/2.png
+![2](https://github.com/azamzow/Bank-account/blob/master/2.png?raw=true)
 
 It then lets the user know that the pay has been deposited and their new account balance. 
 
-![3](/Users/averyzamzow/Desktop/Bank-account/3.png
+![3](https://github.com/azamzow/Bank-account/blob/master/3.png?raw=true)
 
 Next the program asks the user how much they would like to withdraw. (if the user wishes to withdraw nothing, then they can enter 0.00)
 
-![4](/Users/averyzamzow/Desktop/Bank-account/4.png
+![4](https://github.com/azamzow/Bank-account/blob/master/4.png?raw=true)
 
 Fianlly the program recalcualtes the account balance and dispalys it on the screen. 
 
-![5](/Users/averyzamzow/Desktop/Bank-account/5.png
+![4](https://github.com/azamzow/Bank-account/blob/master/4.png?raw=true)
