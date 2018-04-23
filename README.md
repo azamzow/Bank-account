@@ -2,7 +2,7 @@
 
 ### Description
 
-This program uses jOptionPain.showinputdiolage to pop up a window similar to a ATM transaction. It allows the user to view their account balance, and withdraw or deposit money. It does this by creating a BankAccount Object, and after each deposit or withdraw, the program calculates the fianl account balance. 
+This program uses JOptionPain.showInputDiolage to pop up a window similar to a ATM transaction. It allows the user to view their account balance, and withdraw or deposit money. It does this by creating a BankAccount Object, and after each deposit or withdraw, the program calculates the fianl account balance. 
 
 ### To Run
 
